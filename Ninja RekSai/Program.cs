@@ -29,7 +29,7 @@ namespace RekSai
             ItemsManager.Initialize();
             SmiteDamage.Initialize();
 
-            Chat.Print("Ninja RekSai Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!");
 
         }
 
