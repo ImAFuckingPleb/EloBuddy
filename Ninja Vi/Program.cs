@@ -28,7 +28,7 @@ namespace Vi
             Events.Initialize();
             Damage.Initialize();
 
-            Chat.Print("Ninja Vi Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!");
             
         }
     }
