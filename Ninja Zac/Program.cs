@@ -28,7 +28,7 @@ namespace Zac
             Utility.Initialize();
 
 
-            Chat.Print("Ninja Zac Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!");
         }
     }
 }
