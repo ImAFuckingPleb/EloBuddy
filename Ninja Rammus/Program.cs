@@ -32,7 +32,7 @@ namespace Rammus
             SmiteDamage.Initialize();
             Events.Initialize();
 
-            Chat.Print("Ninja Rammus Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!!");
         }
     }
 }
