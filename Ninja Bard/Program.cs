@@ -26,7 +26,7 @@ namespace Bard
             ModeManager.Initialize();
             SpellManager.Initialize();
 
-            Chat.Print("Ninja Bard Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!!");
         }
     }
 }
