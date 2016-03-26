@@ -26,7 +26,7 @@ namespace Maokai
             SpellManager.Initialize();
             ModeManager.Initialize();
 
-            Chat.Print("Ninja Maokai Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!!");
         }
     }
 }
