@@ -28,7 +28,7 @@ namespace Yorick
             Utility.Initialize();
 
 
-            Chat.Print("Ninja Yorick Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!!");
         }
     }
 }
