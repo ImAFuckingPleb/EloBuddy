@@ -30,7 +30,7 @@ namespace NinjaNunu
             Damage.Initialize();
             Events.Initialize();
 
-            Chat.Print("Ninja Nunu Loaded - Have a Great Game!");
+            Chat.Print("joduska.me best LoL scripting platform by far, give it a try!!");
         }
     }
 }
